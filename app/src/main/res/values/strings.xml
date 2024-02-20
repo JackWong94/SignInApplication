@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SignInAppilcation</string>
+    <string name="application_title">Sign In App</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="admin">Admin</string>
+    <string name="login_page">Login Page</string>
+    <string name="logout_page">Logout Page</string>
+    <string name="admin_page">Admin Page</string>
+</resources>
